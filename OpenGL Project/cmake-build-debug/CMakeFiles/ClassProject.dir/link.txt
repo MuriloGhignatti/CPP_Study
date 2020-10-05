@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/ClassProject.dir/main.cpp.o  -o ClassProject /usr/lib/x86_64-linux-gnu/libGLU.so -lglut /usr/lib/x86_64-linux-gnu/libGL.so 

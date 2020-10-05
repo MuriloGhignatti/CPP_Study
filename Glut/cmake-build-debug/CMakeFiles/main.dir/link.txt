@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g  -rdynamic CMakeFiles/main.dir/main.cpp.o  -o main /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLU.so /usr/lib/x86_64-linux-gnu/libglut.so 
